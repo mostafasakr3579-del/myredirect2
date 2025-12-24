@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirect</title>
+</head>
+<body>
+<script>
+  // الرابط اللي عايز تفتحه
+  window.location.href = "https://www.justwatch.com/eg";
+</script>
+<p>يتم تحويلك للموقع...</p>
+</body>
+</html>
